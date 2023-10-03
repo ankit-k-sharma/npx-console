@@ -1,5 +1,5 @@
 {
-  "name": "ankit-info",
+  "name": "@ankit/about-me",
   "version": "1.0.0",
   "description": "This will explain about my info",
   "main": "index.js",
@@ -13,6 +13,6 @@
   "author": "Ankit Kumar Sharma",
   "license": "ISC",
   "bin": {
-    "ankit-info": "./index.js"
+    "@ankit/about-me": "./index.js"
   }
 }
